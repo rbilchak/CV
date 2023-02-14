@@ -9,15 +9,9 @@ Registered Archaeologist
 `2017`
 __B.A., Anthropology, University of California San Diego__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017`
+__B.S., Public Health, University of California San Diego__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 ---
