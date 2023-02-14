@@ -1,6 +1,6 @@
 # Rachel Bilchak
-Bachelors of the Arts in Anthropology 
-Bachelors of the Sciences in Public Health 
+Bachelors of the Arts in Anthropology, 
+Bachelors of the Sciences in Public Health, 
 Registered Archaeologist
 
 ---
