@@ -16,7 +16,7 @@ __B.S., Public Health, University of California San Diego__
 
 `2023 - current`
 __M.A., San Diego State University__
-- Specialization in Historic Archaeology 
+- Specialization in Historic Archaeology of Southern California 
 
 
 ## REGISTRATIONS/CERTIFICATIONS
@@ -27,7 +27,25 @@ __CEQA Trained__
 
 __Worker’s Environmental Awareness Training (WEAP) Facilitator__  
 
+## EXPERIENCE
 
+'2019 – present; full time since 2020'
+__Archaeologist, Rincon Consultants, Inc.__ 
+
+'2018-2020'
+__Archaeologist, Helix Environmental Planning__ 
+
+'2019-2020'
+__Lab Manager and Archaeologist, PanGIS Inc.__ 
+
+'2015-2017'
+__Lab Assistant, UCSD South American Archaeology Lab__
+
+'2015-2016'
+__Lab Assistant, ASM Affiliates__
+
+'2020-present'
+San Diego County Archaeological Society Board Member   
 
 
 ---
