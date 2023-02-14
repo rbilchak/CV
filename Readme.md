@@ -20,8 +20,11 @@ __M.A., San Diego State University__
 
 
 ## REGISTRATIONS/CERTIFICATIONS
+
 __Registered Archaeologist__
+
 __CEQA Trained__ 
+
 __Worker’s Environmental Awareness Training (WEAP) Facilitator__  
 
 
