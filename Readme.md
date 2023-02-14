@@ -8,9 +8,11 @@ Registered Archaeologist
 
 `2017`
 __B.A., Anthropology, University of California San Diego__
+- Specialization in Archaeology 
 
 `2017`
 __B.S., Public Health, University of California San Diego__
+- Specialization in Community Health and Behavior 
 
 
 
