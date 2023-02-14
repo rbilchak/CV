@@ -1,3 +1,5 @@
+# Rachel Bilchak
+Bachelors of the Arts in Anthropology, Bachelors of the Sciences in Public Health, Registered Archaeologist (R.A.).
 ---
 Education: B.A., Anthropology, University of California San Diego, 2017          
 title: Rachel Bilchak's CV
