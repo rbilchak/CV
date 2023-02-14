@@ -1,3 +1,7 @@
+---
+layout: cv
+title: Rachel Bilchak's CV
+---
 +-------------------------------+---+-------------------------------+
 | ![](media/image1.jpeg)        |   | Rachel Bilchak, B.A., B.S.,   |
 | {width="1.1979166666666667in" |   | RA                            |
