@@ -14,7 +14,9 @@ __B.A., Anthropology, University of California San Diego__
 __B.S., Public Health, University of California San Diego__
 - Specialization in Community Health and Behavior 
 
-
+`2023 - current`
+__M.A., San Diego State University__
+- Specialization in Historic Archaeology 
 
 ---
 +-------------------------------+---+-------------------------------+
