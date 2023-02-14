@@ -31,22 +31,22 @@ __Worker’s Environmental Awareness Training (WEAP) Facilitator__
 
 ## EXPERIENCE
 
-'2019 – present; full time since 2020'
+`2019 – present; full time since 2020`
 __Archaeologist, Rincon Consultants, Inc.__ 
 
-'2018-2020'
+`2018-2020`
 __Archaeologist, Helix Environmental Planning__ 
 
-'2019-2020'
+`2019-2020`
 __Lab Manager and Archaeologist, PanGIS Inc.__ 
 
-'2015-2017'
+`2015-2017`
 __Lab Assistant, UCSD South American Archaeology Lab__
 
-'2015-2016'
+`2015-2016`
 __Lab Assistant, ASM Affiliates__
 
-'2020-present'
+`2020-present`
 San Diego County Archaeological Society Board Member   
 
 
