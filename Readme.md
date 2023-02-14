@@ -4,7 +4,7 @@ Bachelors of the Sciences in Public Health,
 Registered Archaeologist
 
 ----------------------------------------------------------------------------------
-## Education
+## EDUCATION
 
 `2017`
 __B.A., Anthropology, University of California San Diego__
@@ -17,6 +17,15 @@ __B.S., Public Health, University of California San Diego__
 `2023 - current`
 __M.A., San Diego State University__
 - Specialization in Historic Archaeology 
+
+
+## REGISTRATIONS/CERTIFICATIONS
+__Registered Archaeologist__
+__CEQA Trained__ 
+__Worker’s Environmental Awareness Training (WEAP) Facilitator__  
+
+
+
 
 ---
 +-------------------------------+---+-------------------------------+
