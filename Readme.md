@@ -47,7 +47,7 @@ __Lab Assistant, UCSD South American Archaeology Lab__
 __Lab Assistant, ASM Affiliates__
 
 `2020-present`
-San Diego County Archaeological Society Board Member   
+__San Diego County Archaeological Society Board Member__   
 
 
 ---
