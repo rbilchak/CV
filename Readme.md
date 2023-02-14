@@ -1,5 +1,5 @@
 ---
-layout: cv
+Education: B.A., Anthropology, University of California San Diego, 2017          
 title: Rachel Bilchak's CV
 ---
 +-------------------------------+---+-------------------------------+
