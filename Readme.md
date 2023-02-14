@@ -8,10 +8,10 @@ Education: B.A., Anthropology, University of California San Diego, 2017
 title: Rachel Bilchak's CV
 ---
 +-------------------------------+---+-------------------------------+
-| ![](media/image1.jpeg)        |   | Rachel Bilchak, B.A., B.S.,   |
-| {width="1.1979166666666667in" |   | RA                            |
-| h                             |   |                               |
-| eight="1.5725667104111987in"} |   | ARCHAEOLOGIST                 |
+|                               |   | Rachel Bilchak, B.A., B.S.,   |
+|                               |   | RA                            |
+|                               |   |                               |
+|                               |   | ARCHAEOLOGIST                 |
 |                               |   |                               |
 | Education                     |   | Rachel Bilchak is an          |
 |                               |   | Archaeologist at Rincon       |
