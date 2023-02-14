@@ -3,9 +3,23 @@ Bachelors of the Arts in Anthropology,
 Bachelors of the Sciences in Public Health, 
 Registered Archaeologist
 
----
-Education: B.A., Anthropology, University of California San Diego, 2017          
-title: Rachel Bilchak's CV
+----------------------------------------------------------------------------------
+## Education
+
+`2017`
+__B.A., Anthropology, University of California San Diego__
+
+`June 1661 - now`
+__Trinity College, Cambridge__
+
+- Sizar
+
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
+
+
 ---
 +-------------------------------+---+-------------------------------+
 |                               |   | Rachel Bilchak, B.A., B.S.,   |
