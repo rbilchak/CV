@@ -57,4 +57,12 @@ __Lab Assistant, ASM Affiliates__
 `2020-present`
 __San Diego County Archaeological Society Board Member__   
 
+  ## ACADEMIC HONORS
+  
+__Warren College Undergraduate Research Scholarship__ 
+For fieldwork conducted in the Locumba Peru
+
+__Robert Mc C. Adams Award__ 
+In recognition of excellence in Anthropological Archaeology
+
 
