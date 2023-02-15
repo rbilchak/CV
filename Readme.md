@@ -76,6 +76,6 @@ In recognition of excellence in Anthropological Archaeology
 | <h4 align="center">**President-Elect of the San Diego County Archeological Society**</h4>  | <h4 align="center">**Board Member of the Public Health Club**</h4> |
 | <h4 align="center">**Art Show Chair of the San Diego County Archeological Society**</h4>  | <h4 align="center">**Founding member of First Year Council**</h4>  | 
 | <h4 align="center">**Flying Samaritans member**</h4>   | <h4 align="center">**Founding member and chairman of Second Year Council**</h4>   | 
-| <h4 align="center">**Flying Samaritans member**</h4>   | <h4 align="center">**Founding member of Greeks United for Diversity**</h4>  | <h4 align="center">**Camp Kesem Counselor**</h4>   | 
+| <h4 align="center">**SDSU Anthropology Graduate Student Association President**</h4>   | <h4 align="center">**Founding member of Greeks United for Diversity**</h4>  | <h4 align="center">**Camp Kesem Counselor**</h4>   | 
 | <h4 align="center">**Recreation Student Advisory Board Delegate**</h4>  | <h4 align="center">**Graduate Student Representative for the SDSU Surf/Skate Conference**</h4>   | 
 
