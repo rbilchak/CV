@@ -23,6 +23,10 @@ __B.A., Anthropology, University of California San Diego__
 `2017`
 __B.S., Public Health, University of California San Diego__
 - Specialization in Community Health and Behavior 
+  
+`2018`
+__Professional Certificate, University of California San Diego__
+- Specialization in Business Marketing
 
 `2023 - current`
 __M.A., San Diego State University__
