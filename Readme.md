@@ -10,7 +10,7 @@ Registered Archaeologist
 
 ----
 <p align="center">
-Rachel Bilchak is an Archaeologist at Rincon Consultants, Inc. with more than 4 years of cultural resources management experience in California. Ms. Bilchak received her Bachelor’s of the Arts in Anthropology from University of California San Diego in 2017. Ms. Bilchak has served as lab and collections manager and has worked extensively in Southern California since 2016, conducting several Phase I surveys, Phase II testing projects, and Phase III data recovery projects in compliance with Section 106 of the National Historic Preservation Act, the National Environmental Policy Act, and the California Environmental Quality Act as they pertain to cultural resources. She is also very active in the San Diego Archaeology community by serving as President of the San Diego County Archaeological Society. 
+Rachel Bilchak is an Archaeologist at Rincon Consultants, Inc. with more than 4 years of cultural resources management experience in California. Ms. Bilchak received her Bachelor’s of the Arts in Anthropology from University of California San Diego in 2017. Ms. Bilchak has served as lab and collections manager and has worked extensively in Southern California since 2016, conducting several Phase I surveys, Phase II testing projects, and Phase III data recovery projects in compliance with Section 106 of the National Historic Preservation Act, the National Environmental Policy Act, and the California Environmental Quality Act as they pertain to cultural resources. She is also very active in the San Diego Archaeology community by serving as on the board of the San Diego County Archaeological Society for four years. 
  
 -----
 
@@ -75,7 +75,7 @@ In recognition of excellence in Anthropological Archaeology
 | ------------- | ------------- |
 | <h4 align="center">**President-Elect of the San Diego County Archeological Society**</h4>  | <h4 align="center">**Board Member of the Public Health Club**</h4> |
 | <h4 align="center">**Art Show Chair of the San Diego County Archeological Society**</h4>  | <h4 align="center">**Founding member of First Year Council**</h4>  | 
-| <h4 align="center">**Flying Samaritans member**</h4>   | <h4 align="center">**Founding member and chairman of Second Year Council**</h4>   | 
+| <h4 align="center">**First VIce Presient of the San Diego County Archeological Society**</h4>   | <h4 align="center">**Founding member and chairman of Second Year Council**</h4>   | 
 | <h4 align="center">**SDSU Anthropology Graduate Student Association President**</h4>   | <h4 align="center">**Founding member of Greeks United for Diversity**</h4>  | <h4 align="center">**Camp Kesem Counselor**</h4>   | 
 | <h4 align="center">**Recreation Student Advisory Board Delegate**</h4>  | <h4 align="center">**Graduate Student Representative for the SDSU Surf/Skate Conference**</h4>   | 
 
