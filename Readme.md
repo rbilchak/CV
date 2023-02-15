@@ -63,10 +63,10 @@ __San Diego County Archaeological Society Board Member__
 
   ## ACADEMIC HONORS
   
-__Warren College Undergraduate Research Scholarship__ 
+__Warren College Undergraduate Research Scholarship:__ 
 For fieldwork conducted in the Locumba Peru
 
-__Robert Mc C. Adams Award__ 
+__Robert Mc C. Adams Award:__ 
 In recognition of excellence in Anthropological Archaeology
 
 ## COMMUNITY INVOLVEMENT
