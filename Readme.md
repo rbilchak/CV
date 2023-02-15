@@ -41,7 +41,7 @@ __CEQA Trained__
 
 __Worker’s Environmental Awareness Training (WEAP) Facilitator__  
 
-## EXPERIENCE
+## CULTURAL RESOURCE MANAGEMENT EXPERIENCE
 
 `2019 – present; full time since 2020`
 __Archaeologist, Rincon Consultants, Inc.__ 
@@ -79,3 +79,10 @@ In recognition of excellence in Anthropological Archaeology
 | <h4 align="center">**SDSU Anthropology Graduate Student Association President**</h4>   | <h4 align="center">**Founding member of Greeks United for Diversity**</h4>  | <h4 align="center">**Camp Kesem Counselor**</h4>   | 
 | <h4 align="center">**Recreation Student Advisory Board Delegate**</h4>  | <h4 align="center">**Graduate Student Representative for the SDSU Surf/Skate Conference**</h4>   | 
 
+## ADDITIONAL WORK EXPERIENCE 
+
+__Volunteer Student Program Director at Casa De Manana:__ 
+This multi-generational club allows for UC San Diego undergraduates and residents from retirement communities, to connect in conversations to learn more about each generation. Both students and residents find commonalities and differences within their generations, which provide different perspectives on life. These human interactions transform our learning process and these relationships encourage a more interconnected learning approach based on our own narratives, a powerful and daunting way to navigate our formal education at UC San Diego. But most importantly, the club provides a more in-depth understanding of our own life journey as we move on from one decade to the next.
+
+__Content Manager at Rejuvenation Therapeutics:__ 
+Content creation for social media and blogs. Developed and implemented a Positioning and Branding Plan, a Marketing Plan, and a Content Marketing Strategy Plan.
