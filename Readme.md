@@ -78,7 +78,7 @@ In recognition of excellence in Anthropological Archaeology
 | <h4 align="center">**Art Show Chair of the San Diego County Archeological Society**</h4>  | <h4 align="center">**Founding member of First Year Council**</h4>  | 
 | <h4 align="center">**First Vice Presient of the San Diego County Archeological Society**</h4>   | <h4 align="center">**Founding member and chairman of Second Year Council**</h4>   | 
 | <h4 align="center">**SDSU Anthropology Graduate Student Association President**</h4>   | <h4 align="center">**Founding member of Greeks United for Diversity**</h4>  | <h4 align="center">**Camp Kesem Counselor**</h4>   | 
-| <h4 align="center">**Recreation Student Advisory Board Delegate**</h4>  | <h4 align="center">**Graduate Student Representative for the SDSU Surf/Skate Conference**</h4>   | 
+| <h4 align="center">**Graduate Student Representative for the SDSU Surf/Skate Conference**</h4>  | <h4 align="center">**Recreation Student Advisory Board Delegate**</h4>   | 
 
 ## ADDITIONAL WORK EXPERIENCE 
 
