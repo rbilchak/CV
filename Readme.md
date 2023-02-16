@@ -71,8 +71,9 @@ In recognition of excellence in Anthropological Archaeology
 
 ## COMMUNITY INVOLVEMENT
   
-| President of the San Diego County Archaeological Society  | Founding member and Secretary of Girl Up -United Nations Club |
+| Anthroplogy  | Public Health |
 | ------------- | ------------- |
+| <h4 align="center">**President of the San Diego County Archaeological Society**</h4>  | <h4 align="center">**Founding member and Secretary of Girl Up -United Nations Club**</h4> |
 | <h4 align="center">**President-Elect of the San Diego County Archeological Society**</h4>  | <h4 align="center">**Board Member of the Public Health Club**</h4> |
 | <h4 align="center">**Art Show Chair of the San Diego County Archeological Society**</h4>  | <h4 align="center">**Founding member of First Year Council**</h4>  | 
 | <h4 align="center">**First Vice Presient of the San Diego County Archeological Society**</h4>   | <h4 align="center">**Founding member and chairman of Second Year Council**</h4>   | 
